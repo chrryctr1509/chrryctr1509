@@ -32,6 +32,10 @@
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="55%">
+
 ## 👋 About Me
 
 I'm a **Fullstack Developer** and **AI Engineer** based in Indonesia, passionate about building scalable systems and intelligent applications. I specialize in end-to-end product development — from architecting backends to deploying production AI pipelines.
@@ -45,6 +49,15 @@ I'm a **Fullstack Developer** and **AI Engineer** based in Indonesia, passionate
 | ☁️ **Cloud** | Docker, Linux, Nginx, CI/CD Pipelines |
 | 🔒 **Security** | Auth systems, API security, best practices |
 | 🗄️ **Databases** | MySQL, PostgreSQL, MongoDB, Redis |
+
+</td>
+<td valign="center" width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Developer coding animation" />
+
+</td>
+</tr>
+</table>
 
 ---
 
