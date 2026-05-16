@@ -6,7 +6,7 @@
 </p>
 
 <!-- ========================= -->
-<!--         BADGES            -->
+<!--          BADGES          -->
 <!-- ========================= -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chrryctr1509&style=for-the-badge&color=ff6b9d&label=Profile+Views" />
@@ -27,7 +27,7 @@
 
 # 👋 Hello, I'm Cherry Citra Cahyaning
 
-<!-- Gunakan GIF dari GitHub agar tidak blank -->
+<!-- GIF yang stabil dan tidak blank -->
 <p align="right">
   <img
     src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
@@ -45,6 +45,7 @@
 - 🔭 Currently working on AI Customer Service and enterprise systems
 - 📧 Reach me at: **chrryctr1509@gmail.com**
 - 🌍 Based in Indonesia
+
 <br clear="right"/>
 
 ---
@@ -140,7 +141,7 @@
 # 💼 Open for Collaboration
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="240" />
 </p>
 
 <p align="center">
