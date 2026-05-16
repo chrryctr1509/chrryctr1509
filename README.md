@@ -133,7 +133,38 @@ OpenAI API · Llama Models · Prompt Engineering · AI Agents · Workflow Automa
 
 ## 🎯 Professional Values
 
-✅ Clean & Maintainable Code &nbsp;·&nbsp; ✅ Scalable Architecture &nbsp;·&nbsp; ✅ Performance Optimization &nbsp;·&nbsp; ✅ Security Best Practices &nbsp;·&nbsp; ✅ Continuous Learning &nbsp;·&nbsp; ✅ Effective Collaboration
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🧹 Clean & Maintainable Code</h4>
+      <p>Readable, well-documented, and easy to hand off to any team.</p>
+    </td>
+    <td width="50%">
+      <h4>🏗️ Scalable Architecture</h4>
+      <p>Systems designed to grow without breaking under pressure.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>⚡ Performance Optimization</h4>
+      <p>Fast, efficient, and resource-conscious by default.</p>
+    </td>
+    <td width="50%">
+      <h4>🔒 Security Best Practices</h4>
+      <p>Built with defense-in-depth from day one.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>📚 Continuous Learning</h4>
+      <p>Always current with the latest tools and best practices.</p>
+    </td>
+    <td width="50%">
+      <h4>🤝 Effective Collaboration</h4>
+      <p>Clear communication, shared ownership, team-first mindset.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
