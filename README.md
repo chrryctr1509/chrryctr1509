@@ -80,82 +80,52 @@ I am a passionate **Fullstack Developer** and **AI Engineer** with strong experi
 
 # 🛠️ Technology Stack
 
-## 💻 Programming Languages
+<!-- Technology Stack Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Technology+Stack;Fullstack+Development;AI+Engineering;DevOps+Infrastructure" />
+</p>
 
+<!-- Technology Stack Carousel / Marquee -->
+<p align="center">
+  <img
+    src="https://readme-marquee.vercel.app?font=Fira+Code&size=24&duration=15&pause=1000&color=7F5AF0&background=0D1117&center=true&vCenter=true&width=1000&lines=JavaScript+•+TypeScript+•+Python+•+PHP+•+Go+•+React+•+Next.js+•+Vue.js+•+TailwindCSS+•+Bootstrap+•+Node.js+•+Express.js+•+Laravel+•+Flask+•+FastAPI+•+MySQL+•+PostgreSQL+•+MongoDB+•+Redis+•+Docker+•+Linux+•+Nginx+•+Git+•+GitHub+•+Postman+•+VS+Code"
+    alt="Technology Stack Carousel"
+  />
+</p>
+
+<!-- All Skills -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=js,ts,python,php,go,html,css,react,nextjs,vue,tailwind,bootstrap,nodejs,express,laravel,flask,fastapi,mysql,postgresql,mongodb,redis,docker,linux,nginx,git,github,postman,vscode&theme=dark&perline=10"
+      alt="Tech Stack"
+    />
+  </a>
+</p>
+
+## 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=php" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=go" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="55" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,html,css&theme=dark" />
 </p>
 
 ## 🎨 Frontend Development
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vue" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="55" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap&theme=dark" />
 </p>
 
 ## ⚙️ Backend Development
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=laravel" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=go" height="55" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flask,fastapi,go&theme=dark" />
 </p>
 
 ## 🗄️ Databases
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgresql" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" height="55" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=dark" />
 </p>
 
 ## ☁️ DevOps & Infrastructure
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nginx" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="55" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,postman,vscode&theme=dark" />
 </p>
 
 ## 🤖 Artificial Intelligence
