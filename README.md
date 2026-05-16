@@ -1,5 +1,6 @@
 <!-- ===================================================== -->
 <!--                 PROFESSIONAL GITHUB PROFILE           -->
+<!--                 WITH GOJO SATORU GIF                  -->
 <!-- ===================================================== -->
 
 <p align="center">
@@ -71,7 +72,7 @@ My expertise spans across frontend development, backend architecture, DevOps, an
 
 <td width="40%" align="center" valign="middle">
   <img
-    src="https://media.giphy.com/media/8KgdxdlG9EdkA/giphy.gif"
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdrMGR3bjJxYXNhcTZrbjQ1eXQ3N2V5aW1ucG9ocGx0aHh0d2p0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kkSkgexb9xBoQ/giphy.gif"
     width="320"
     alt="Gojo Satoru Animation"
   />
@@ -205,7 +206,7 @@ My expertise spans across frontend development, backend architecture, DevOps, an
 
 <p align="center">
   <img
-    src="https://media.giphy.com/media/8KgdxdlG9EdkA/giphy.gif"
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdrMGR3bjJxYXNhcTZrbjQ1eXQ3N2V5aW1ucG9ocGx0aHh0d2p0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kkSkgexb9xBoQ/giphy.gif"
     width="260"
     alt="Gojo Satoru"
   />
