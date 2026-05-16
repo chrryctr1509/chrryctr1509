@@ -116,17 +116,50 @@
   ## 🤝 Connect With Me
 
   <p align="center">
-    <a href="mailto:chrryctr1509@gmail.com">
-      <img src="https://img.shields.io/badge/Email-chrryctr1509%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoCo
-  lor=white" alt="Email"/>
+    <a href="mailto:chrryctr1509@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://github.com/chrryctr1509" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-ChrryCtr1509-181717?style=for-the-badge&logo=github&logoColor=white"
-   alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"
+   />
     </a>
   </p>
 
+  ---
+
+  ## 💼 Open for Collaboration
+
+  <p align="center">
+    <img src="https://media.giphy.com/media/WtFnjB一大Yad6/giphy.gif" width="120" alt="Hire Me" />
+  </p>
+
+  ---
+
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=Thanks+for+vis
-  iting!+" alt="Footer" />
+  iting!+%F0%9F%91%8B" alt="Footer" />
   </p>
+
+  ---
+  📌 Versi Lengkap yang Diperbaiki (Hanya Bagian Connect):
+
+  ## 🤝 Connect With Me
+
+  <p align="center">
+    <a href="mailto:chrryctr1509@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://github.com/chrryctr1509" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"
+   />
+    </a>
+  </p>
+
+  ---
+
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=Thanks+for+vis
+  iting!+%F0%9F%91%8B" alt="Footer" />
+  </p>
+
+  ---
