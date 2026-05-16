@@ -70,7 +70,11 @@ My expertise spans across frontend development, backend architecture, DevOps, an
 </td>
 
 <td width="40%" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320" alt="Coding Animation" />
+  <img
+    src="https://media.giphy.com/media/8KgdxdlG9EdkA/giphy.gif"
+    width="320"
+    alt="Gojo Satoru Animation"
+  />
 </td>
 </tr>
 </table>
@@ -111,27 +115,32 @@ My expertise spans across frontend development, backend architecture, DevOps, an
 
 ### 🤖 Artificial Intelligence
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
 - OpenAI API
 - Llama Models
 - Prompt Engineering
 - AI Agents
-- Automation Systems
+- Workflow Automation
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chrryctr1509&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrryctr1509&theme=tokyonight&hide_border=true" />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=chrryctr1509&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=chrryctr1509&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrryctr1509&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img
+    width="45%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrryctr1509&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+  />
 </p>
 
 ---
@@ -139,7 +148,7 @@ My expertise spans across frontend development, backend architecture, DevOps, an
 ## 🚀 Featured Projects
 
 | Project | Description | Technologies |
-|:------|:------|:------|
+|:--|:--|:--|
 | **CRUD API User Laravel** | RESTful API implementation with authentication and CRUD operations | Laravel, PHP, MySQL |
 | **API LSP** | Enterprise certification and management platform | Laravel, PHP |
 | **AI Customer Service** | Intelligent chatbot with automated responses and file handling | Node.js, OpenAI |
@@ -151,7 +160,9 @@ My expertise spans across frontend development, backend architecture, DevOps, an
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chrryctr1509&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=chrryctr1509&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"
+  />
 </p>
 
 ---
@@ -159,7 +170,9 @@ My expertise spans across frontend development, backend architecture, DevOps, an
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrryctr1509&theme=react-dark&hide_border=true&area=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=chrryctr1509&theme=react-dark&hide_border=true&area=true"
+  />
 </p>
 
 ---
@@ -191,7 +204,11 @@ My expertise spans across frontend development, backend architecture, DevOps, an
 ## 💼 Open for Opportunities
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="240" alt="Coding Animation" />
+  <img
+    src="https://media.giphy.com/media/8KgdxdlG9EdkA/giphy.gif"
+    width="260"
+    alt="Gojo Satoru"
+  />
 </p>
 
 <p align="center">
