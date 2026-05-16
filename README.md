@@ -32,6 +32,11 @@
 
 ---
 
+<details>
+<summary><b>👇 Click here to explore — About Me, Tech Stack, Projects, Stats & More</b></summary>
+
+<br>
+
 ## 👋 Hello, I'm Cherry Citra Cahyaning
 
 **Fullstack Developer | AI Engineer | Software Architect**
@@ -61,12 +66,10 @@ I am a passionate **Fullstack Developer** and **AI Engineer** with strong experi
 
 ## 🛠️ Technology Stack
 
-<!-- Auto-sliding marquee for tech stack -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=JavaScript+%7C+TypeScript+%7C+Python+%7C+PHP+%7C+Go;React+%7C+Next.js+%7C+Vue.js+%7C+TailwindCSS+%7C+Bootstrap;Node.js+%7C+Express.js+%7C+Laravel+%7C+Flask+%7C+FastAPI;MySQL+%7C+PostgreSQL+%7C+MongoDB+%7C+Redis;Docker+%7C+Linux+%7C+Nginx+%7C+Git+%7C+GitHub;OpenAI+API+%7C+Llama+%7C+Prompt+Engineering+%7C+AI+Agents" />
 </p>
 
-<!-- Full icon set -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,html,css,react,nextjs,vue,tailwind,bootstrap,nodejs,express,laravel,flask,fastapi,mysql,postgresql,mongodb,redis,docker,linux,nginx,git,github,postman,vscode&theme=dark&perline=10" alt="Tech Stack" />
@@ -188,6 +191,10 @@ OpenAI API · Llama Models · Prompt Engineering · AI Agents · Workflow Automa
 <p align="center">
   <i>"Turning ideas into scalable and intelligent digital products."</i>
 </p>
+
+</details>
+
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:2CB67D,100:7F5AF0&height=120&section=footer&text=Thank%20You%20for%20Visiting!&fontColor=ffffff&fontSize=28" />
