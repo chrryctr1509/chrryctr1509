@@ -21,6 +21,7 @@
   <a href="mailto:chrryctr1509@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/chrryctr1509">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -32,13 +33,9 @@
 
 <br>
 
-<!-- ── LOAD MORE BUTTON AREA ── -->
 <p align="center">
-  <img src="https://img.shields.io/badge/▼%20%20EXPLORE%20MY%20PROFILE%20%20▼-click%20to%20expand-7F5AF0?style=for-the-badge&labelColor=0d1117" />
-</p>
-
-<details>
-<summary><img src="https://img.shields.io/badge/%F0%9F%9A%80%20%20About%20Me%20%7C%20Tech%20Stack%20%7C%20Projects%20%7C%20Stats%20%7C%20Values-SHOW%20MORE%20%E2%86%93-2CB67D?style=for-the-badge&labelColor=161b22&logoColor=white" /></summary>
+  <details>
+  <summary><img src="https://img.shields.io/badge/🚀%20%20Explore%20My%20Profile%20%20—%20%20About%20Me%20%7C%20Stack%20%7C%20Projects%20%7C%20Stats%20%7C%20Values%20%20▼-2CB67D?style=for-the-badge&labelColor=0d1117" /></summary>
 
 <br>
 
@@ -91,7 +88,7 @@ I am a passionate **Fullstack Developer** and **AI Engineer** with strong experi
 </p>
 
 <details>
-<summary><img src="https://img.shields.io/badge/📋%20View%20Full%20Stack%20Breakdown-expand-444?style=flat-square" /></summary>
+<summary><img src="https://img.shields.io/badge/📋%20View%20Full%20Stack%20Breakdown-expand-555?style=flat-square" /></summary>
 
 <br>
 
@@ -226,17 +223,12 @@ I am a passionate **Fullstack Developer** and **AI Engineer** with strong experi
 
 <p align="center">
   <i>Available for freelance projects and technical collaborations.</i>
-</p>
-
-<br>
-
-<p align="center">
+  <br><br>
   <i>"Turning ideas into scalable and intelligent digital products."</i>
 </p>
 
-</details>
-
-<!-- ── END LOAD MORE ── -->
+  </details>
+</p>
 
 <br>
 
