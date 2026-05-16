@@ -1,6 +1,6 @@
 <!-- ===================================================== -->
-<!--                 PROFESSIONAL GITHUB PROFILE           -->
-<!--                 WITH GOJO SATORU GIF                  -->
+<!--               PROFESSIONAL GITHUB PROFILE             -->
+<!--                    CLEAN VERSION                      -->
 <!-- ===================================================== -->
 
 <p align="center">
@@ -35,12 +35,6 @@
 
 ## 💼 Professional Summary
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 🚀 About Me
-
 I am a passionate **Fullstack Developer** and **AI Engineer** with extensive experience in designing and developing scalable web applications, RESTful APIs, and intelligent automation systems.
 
 My expertise spans across frontend development, backend architecture, DevOps, and artificial intelligence integration. I enjoy transforming complex business requirements into robust and maintainable software solutions.
@@ -67,18 +61,6 @@ My expertise spans across frontend development, backend architecture, DevOps, an
 - 📧 Email: **chrryctr1509@gmail.com**
 - 🌍 Location: **Indonesia**
 - 💼 Status: **Open for Freelance & Collaboration**
-
-</td>
-
-<td width="40%" align="center" valign="middle">
-  <img
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdrMGR3bjJxYXNhcTZrbjQ1eXQ3N2V5aW1ucG9ocGx0aHh0d2p0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kkSkgexb9xBoQ/giphy.gif"
-    width="320"
-    alt="Gojo Satoru Animation"
-  />
-</td>
-</tr>
-</table>
 
 ---
 
@@ -121,28 +103,6 @@ My expertise spans across frontend development, backend architecture, DevOps, an
 - Prompt Engineering
 - AI Agents
 - Workflow Automation
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=chrryctr1509&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=chrryctr1509&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrryctr1509&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
-  />
-</p>
 
 ---
 
@@ -205,16 +165,8 @@ My expertise spans across frontend development, backend architecture, DevOps, an
 ## 💼 Open for Opportunities
 
 <p align="center">
-  <img
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdrMGR3bjJxYXNhcTZrbjQ1eXQ3N2V5aW1ucG9ocGx0aHh0d2p0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kkSkgexb9xBoQ/giphy.gif"
-    width="260"
-    alt="Gojo Satoru"
-  />
-</p>
-
-<p align="center">
   <strong>
-    Available for freelance projects, technical collaborations, and full-time opportunities.
+    Available for freelance projects and technical collaborations.
   </strong>
 </p>
 
