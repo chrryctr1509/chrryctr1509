@@ -1,22 +1,25 @@
 <!-- ===================================================== -->
-<!--               PROFESSIONAL GITHUB PROFILE             -->
-<!--                    CLEAN VERSION                      -->
+<!--                 PROFESSIONAL GITHUB PROFILE           -->
+<!--                   CHERRY CITRA CAHYANING              -->
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:00C2FF&height=240&section=header&text=Cherry%20Citra%20Cahyaning&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Software%20Architect&descAlignY=58&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:00C2FF&height=250&section=header&text=Cherry%20Citra%20Cahyaning&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20•%20AI%20Engineer%20•%20Software%20Architect&descAlignY=58&descSize=20" />
 </p>
 
-<!-- ===================================================== -->
-<!--                        BADGES                         -->
-<!-- ===================================================== -->
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=Fullstack+Developer;AI+Engineer;Software+Architect;Building+Scalable+Applications;Turning+Ideas+Into+Digital+Products" />
+</p>
 
+<!-- Profile Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chrryctr1509&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/chrryctr1509?style=for-the-badge&color=2CB67D&label=FOLLOWERS" />
   <img src="https://img.shields.io/github/stars/chrryctr1509?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00C2FF&label=TOTAL+STARS" />
 </p>
 
+<!-- Social Links -->
 <p align="center">
   <a href="mailto:chrryctr1509@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -26,22 +29,29 @@
   </a>
 </p>
 
+<!-- Coding GIF -->
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+    width="320"
+    alt="Coding Animation"
+  />
+</p>
+
 ---
 
-<h1 align="center">👋 Hello, I'm Cherry Citra Cahyaning</h1>
-<h3 align="center">Building Scalable Applications, Intelligent Systems, and Modern Digital Solutions</h3>
+# 👋 Hello, I'm Cherry Citra Cahyaning
+
+### 🚀 Fullstack Developer | 🤖 AI Engineer | 🏗️ Software Architect
+
+Building scalable applications, intelligent systems, and modern digital solutions.
 
 ---
 
 ## 💼 Professional Summary
 
-I am a passionate **Fullstack Developer** and **AI Engineer** with extensive experience in designing and developing scalable web applications, RESTful APIs, and intelligent automation systems.
+I am a passionate **Fullstack Developer** and **AI Engineer** with strong experience in:
 
-My expertise spans across frontend development, backend architecture, DevOps, and artificial intelligence integration. I enjoy transforming complex business requirements into robust and maintainable software solutions.
-
-### 🎯 Core Expertise
-
-- 🏗️ Software Architecture & System Design
 - 🌐 Fullstack Web Development
 - 🤖 Artificial Intelligence & Automation
 - 🔗 REST API Development & Integration
@@ -49,14 +59,18 @@ My expertise spans across frontend development, backend architecture, DevOps, an
 - 🗄️ Database Design & Optimization
 - 🔒 Authentication & Security Best Practices
 
-### 📌 Current Focus
+---
 
-- AI Customer Service Systems
-- Enterprise Management Platforms
-- Workflow Automation Solutions
-- Large Language Model Integration
+## 🎯 Current Focus
 
-### 📬 Contact Information
+- 🤖 AI Customer Service Systems
+- 🏢 Enterprise Management Platforms
+- ⚙️ Workflow Automation Solutions
+- 🧠 Large Language Model Integration
+
+---
+
+## 📬 Contact Information
 
 - 📧 Email: **chrryctr1509@gmail.com**
 - 🌍 Location: **Indonesia**
@@ -64,39 +78,87 @@ My expertise spans across frontend development, backend architecture, DevOps, an
 
 ---
 
-## 🛠️ Technology Stack
+# 🛠️ Technology Stack
 
-### 💻 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,html,css" />
-</p>
-
-### 🎨 Frontend Development
+## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=go" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="55" />
 </p>
 
-### ⚙️ Backend Development
+## 🎨 Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flask,fastapi,go" />
+  <img src="https://skillicons.dev/icons?i=react" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vue" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="55" />
 </p>
 
-### 🗄️ Databases
+## ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=laravel" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=go" height="55" />
 </p>
 
-### ☁️ DevOps & Infrastructure
+## 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" height="55" />
 </p>
 
-### 🤖 Artificial Intelligence
+## ☁️ DevOps & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nginx" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="55" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="55" />
+</p>
+
+## 🤖 Artificial Intelligence
 
 - OpenAI API
 - Llama Models
@@ -106,39 +168,44 @@ My expertise spans across frontend development, backend architecture, DevOps, an
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 | Project | Description | Technologies |
-|:--|:--|:--|
-| **CRUD API User Laravel** | RESTful API implementation with authentication and CRUD operations | Laravel, PHP, MySQL |
-| **API LSP** | Enterprise certification and management platform | Laravel, PHP |
-| **AI Customer Service** | Intelligent chatbot with automated responses and file handling | Node.js, OpenAI |
-| **React LMS** | Learning Management System for education platforms | React.js, JavaScript |
-| **Automation Scripts** | Productivity and workflow automation tools | Python |
+|:------|:-------------|:------------|
+| CRUD API User Laravel | RESTful API with authentication | Laravel, PHP, MySQL |
+| API LSP | Certification and management platform | Laravel, PHP |
+| AI Customer Service | Intelligent chatbot automation | Node.js, OpenAI |
+| React LMS | Learning Management System | React.js |
+| Automation Scripts | Productivity tools | Python |
 
 ---
 
-## 🏆 GitHub Achievements
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=chrryctr1509&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=chrryctr1509&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=chrryctr1509&theme=react-dark&hide_border=true&area=true"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrryctr1509&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🎯 Professional Values
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrryctr1509&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrryctr1509&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🎯 Professional Values
 
 - ✅ Clean and Maintainable Code
 - ✅ Scalable System Architecture
@@ -149,7 +216,7 @@ My expertise spans across frontend development, backend architecture, DevOps, an
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:chrryctr1509@gmail.com">
@@ -162,12 +229,10 @@ My expertise spans across frontend development, backend architecture, DevOps, an
 
 ---
 
-## 💼 Open for Opportunities
+# 💼 Open for Opportunities
 
 <p align="center">
-  <strong>
-    Available for freelance projects and technical collaborations.
-  </strong>
+  <strong>Available for freelance projects and technical collaborations.</strong>
 </p>
 
 ---
