@@ -6,7 +6,7 @@
 </p>
 
 <!-- ========================= -->
-<!--          BADGES          -->
+<!--          BADGES           -->
 <!-- ========================= -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chrryctr1509&style=for-the-badge&color=ff6b9d&label=Profile+Views" />
@@ -27,14 +27,10 @@
 
 # 👋 Hello, I'm Cherry Citra Cahyaning
 
-<!-- GIF yang stabil dan tidak blank -->
-<p align="right">
-  <img
-    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-    alt="Coding"
-    width="320"
-  />
-</p>
+<table>
+  <tr>
+    <!-- LEFT SIDE -->
+    <td valign="top" width="60%">
 
 ## 💫 About Me
 
@@ -46,7 +42,18 @@
 - 📧 Reach me at: **chrryctr1509@gmail.com**
 - 🌍 Based in Indonesia
 
-<br clear="right"/>
+    </td>
+
+    <!-- RIGHT SIDE -->
+    <td valign="top" width="40%" align="center">
+      <img
+        src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+        alt="Coding"
+        width="320"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -141,7 +148,11 @@
 # 💼 Open for Collaboration
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="240" />
+  <img
+    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+    width="240"
+    alt="Coding Animation"
+  />
 </p>
 
 <p align="center">
