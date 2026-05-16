@@ -128,10 +128,6 @@ OpenAI API  •  Llama Models  •  Prompt Engineering  •  AI Agents  •  Wor
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrryctr1509&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&cache_seconds=1800" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=chrryctr1509&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 <br/><br/>
