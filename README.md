@@ -128,16 +128,17 @@ OpenAI API  •  Llama Models  •  Prompt Engineering  •  AI Agents  •  Wor
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=chrryctr1509&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrryctr1509&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=chrryctr1509&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+&nbsp;
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrryctr1509&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&cache_seconds=1800" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=chrryctr1509&theme=midnight-purple&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=chrryctr1509&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chrryctr1509&theme=tokyo-night&hide_border=true&area=true&area_color=7C3AED" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chrryctr1509&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=7C3AED&point=ffffff" />
 
 </div>
 
