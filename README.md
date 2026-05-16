@@ -1,142 +1,185 @@
-<!-- ========================= -->
-<!--        HEADER BANNER      -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                 PROFESSIONAL GITHUB PROFILE           -->
+<!-- ===================================================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,100:c084fc&height=220&section=header&text=Cherry%20Citra%20Cahyaning&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20AI%20Engineer%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:00C2FF&height=240&section=header&text=Cherry%20Citra%20Cahyaning&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Software%20Architect&descAlignY=58&descSize=20" />
 </p>
 
-<!-- ========================= -->
-<!--          BADGES           -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                        BADGES                         -->
+<!-- ===================================================== -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chrryctr1509&style=for-the-badge&color=ff6b9d&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/chrryctr1509?style=for-the-badge&color=ff6b9d&label=Followers" />
-  <img src="https://img.shields.io/github/stars/chrryctr1509?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=ff6b9d&label=Total+Stars" />
+  <img src="https://komarev.com/ghpvc/?username=chrryctr1509&style=for-the-badge&color=7F5AF0&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/chrryctr1509?style=for-the-badge&color=2CB67D&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/chrryctr1509?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00C2FF&label=TOTAL+STARS" />
 </p>
 
 <p align="center">
   <a href="mailto:chrryctr1509@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/chrryctr1509">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-# 👋 Hello, I'm Cherry Citra Cahyaning
+<h1 align="center">👋 Hello, I'm Cherry Citra Cahyaning</h1>
+<h3 align="center">Building Scalable Applications, Intelligent Systems, and Modern Digital Solutions</h3>
+
+---
+
+## 💼 Professional Summary
 
 <table>
-  <tr>
-    <!-- LEFT SIDE -->
-    <td valign="top" width="60%">
+<tr>
+<td width="60%" valign="top">
 
-## 💫 About Me
+### 🚀 About Me
 
-- 💼 Fullstack Developer with strong backend and frontend expertise
-- 🤖 Building AI-powered applications and automation systems
-- 🌐 Experienced in developing scalable web applications and APIs
-- 🚀 Passionate about clean architecture and software engineering
-- 🔭 Currently working on AI Customer Service and enterprise systems
-- 📧 Reach me at: **chrryctr1509@gmail.com**
-- 🌍 Based in Indonesia
+I am a passionate **Fullstack Developer** and **AI Engineer** with extensive experience in designing and developing scalable web applications, RESTful APIs, and intelligent automation systems.
 
-    </td>
+My expertise spans across frontend development, backend architecture, DevOps, and artificial intelligence integration. I enjoy transforming complex business requirements into robust and maintainable software solutions.
 
-    <!-- RIGHT SIDE -->
-    <td valign="top" width="40%" align="center">
-      <img
-        src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-        alt="Coding"
-        width="320"
-      />
-    </td>
-  </tr>
+### 🎯 Core Expertise
+
+- 🏗️ Software Architecture & System Design
+- 🌐 Fullstack Web Development
+- 🤖 Artificial Intelligence & Automation
+- 🔗 REST API Development & Integration
+- ☁️ Cloud Deployment & DevOps
+- 🗄️ Database Design & Optimization
+- 🔒 Authentication & Security Best Practices
+
+### 📌 Current Focus
+
+- AI Customer Service Systems
+- Enterprise Management Platforms
+- Workflow Automation Solutions
+- Large Language Model Integration
+
+### 📬 Contact Information
+
+- 📧 Email: **chrryctr1509@gmail.com**
+- 🌍 Location: **Indonesia**
+- 💼 Status: **Open for Freelance & Collaboration**
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320" alt="Coding Animation" />
+</td>
+</tr>
 </table>
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,php,go,html,css" />
 </p>
 
-## 🎨 Frontend Development
+### 🎨 Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap" />
 </p>
 
-## ⚙️ Backend Development
+### ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flask,go" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flask,fastapi,go" />
 </p>
 
-## 🗄️ Database
+### 🗄️ Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
 </p>
 
-## ☁️ DevOps & Tools
+### ☁️ DevOps & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,postman,vscode" />
 </p>
+
+### 🤖 Artificial Intelligence
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- OpenAI API
+- Llama Models
+- Prompt Engineering
+- AI Agents
+- Automation Systems
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chrryctr1509&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrryctr1509&theme=rose-pine&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chrryctr1509&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chrryctr1509&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrryctr1509&layout=compact&theme=rose_pine&hide_border=true&langs_count=10" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrryctr1509&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|--------|--------|
-| [crud-api-user-laravel](https://github.com/chrryctr1509/crud-api-user-laravel) | RESTful CRUD API using Laravel | PHP, Laravel, MySQL |
-| [api-lsp](https://github.com/chrryctr1509/api-lsp) | Enterprise API for certification systems | PHP, Laravel |
-| [script-py](https://github.com/chrryctr1509/script-py) | Useful Python automation scripts | Python |
-| [react_lms](https://github.com/chrryctr1509/react_lms) | Learning Management System | React, JavaScript |
-| [nextjs-app](https://github.com/chrryctr1509/nextjs-app) | Modern web application with Next.js | Next.js, TypeScript |
+| Project | Description | Technologies |
+|:------|:------|:------|
+| **CRUD API User Laravel** | RESTful API implementation with authentication and CRUD operations | Laravel, PHP, MySQL |
+| **API LSP** | Enterprise certification and management platform | Laravel, PHP |
+| **AI Customer Service** | Intelligent chatbot with automated responses and file handling | Node.js, OpenAI |
+| **React LMS** | Learning Management System for education platforms | React.js, JavaScript |
+| **Automation Scripts** | Productivity and workflow automation tools | Python |
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chrryctr1509&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chrryctr1509&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrryctr1509&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrryctr1509&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-# 🤝 Let's Connect
+## 🎯 Professional Values
+
+- ✅ Clean and Maintainable Code
+- ✅ Scalable System Architecture
+- ✅ Performance Optimization
+- ✅ Security Best Practices
+- ✅ Continuous Learning
+- ✅ Effective Collaboration
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:chrryctr1509@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-ff6b9d?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/chrryctr1509">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -145,25 +188,26 @@
 
 ---
 
-# 💼 Open for Collaboration
+## 💼 Open for Opportunities
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-    width="240"
-    alt="Coding Animation"
-  />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="240" alt="Coding Animation" />
 </p>
 
 <p align="center">
-  <b>I'm open to freelance work, collaboration, and exciting software projects.</b>
+  <strong>
+    Available for freelance projects, technical collaborations, and full-time opportunities.
+  </strong>
 </p>
 
 ---
 
-<!-- ========================= -->
-<!--        FOOTER BANNER      -->
-<!-- ========================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,100:ff6b9d&height=120&section=footer&text=Thanks%20for%20Visiting!%20%F0%9F%91%8B&fontColor=ffffff&fontSize=28" />
+  <i>"Turning ideas into scalable and intelligent digital products."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:2CB67D,100:7F5AF0&height=120&section=footer&text=Thank%20You%20for%20Visiting!&fontColor=ffffff&fontSize=28" />
 </p>
