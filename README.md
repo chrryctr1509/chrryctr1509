@@ -27,9 +27,16 @@
 
 # 👋 Hello, I'm Cherry Citra Cahyaning
 
-<img align="right" alt="Coding" width="380" src="https://github-readme-stats.vercel.app/api?username=chrryctr1509&theme=rose_pine&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<!-- Gunakan GIF dari GitHub agar tidak blank -->
+<p align="right">
+  <img
+    src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+    alt="Coding"
+    width="320"
+  />
+</p>
 
-### 💫 About Me
+## 💫 About Me
 
 - 💼 Fullstack Developer with strong backend and frontend expertise
 - 🤖 Building AI-powered applications and automation systems
@@ -38,7 +45,6 @@
 - 🔭 Currently working on AI Customer Service and enterprise systems
 - 📧 Reach me at: **chrryctr1509@gmail.com**
 - 🌍 Based in Indonesia
-
 <br clear="right"/>
 
 ---
