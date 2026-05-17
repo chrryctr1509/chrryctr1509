@@ -44,7 +44,7 @@ I'm a **Fullstack Developer** and **AI Engineer** based in Indonesia, passionate
 
 | Area | Expertise |
 |:-----|:----------|
-| 🌐 **Web** | Fullstack Development (React, Next.js, Laravel, Node.js) |
+| 🌐 **Web** | Fullstack Development |
 | 🤖 **AI/ML** | LLM Integration, AI Agents, Prompt Engineering |
 | ☁️ **Cloud** | Docker, Linux, Nginx, CI/CD Pipelines |
 | 🔒 **Security** | Auth systems, API security, best practices |
